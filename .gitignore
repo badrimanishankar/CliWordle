@@ -1,0 +1,8 @@
+# Python-generated files
+__pycache__/
+
+# Virtual environments
+.venv
+
+# ignore env file
+.env
